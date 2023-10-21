@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-REACT-P-6/static/css/main.abd64e84.css",
+    "main.js": "/MERN-REACT-P-6/static/js/main.7ff6957d.js",
+    "index.html": "/MERN-REACT-P-6/index.html",
+    "main.abd64e84.css.map": "/MERN-REACT-P-6/static/css/main.abd64e84.css.map",
+    "main.7ff6957d.js.map": "/MERN-REACT-P-6/static/js/main.7ff6957d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.7ff6957d.js"
+  ]
+}
